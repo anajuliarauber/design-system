@@ -34,6 +34,6 @@ This project brings the design area closer to front-end development, using React
 
  ## Storybook
  
-Check more details in the [**preview**](https://anajuliarauber.github.io/ignite-lab-design-system/?path=/story/components-button--default)
+Check more details in the [**preview**](https://anajuliarauber.github.io/design-system/)
 ![image](https://user-images.githubusercontent.com/91629999/196001815-aa9fe86a-a4b6-4253-b072-d4395097fa9a.png)
 
